@@ -1,6 +1,5 @@
 import React from 'react';
 import './Home.css';
-import SimplePaper from './SimplePaper';
 
 
 export default function Home(){
@@ -18,7 +17,6 @@ export default function Home(){
                
             </div>
             
-            <SimplePaper />
         </div>
 
     )
