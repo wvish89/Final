@@ -1,0 +1,16 @@
+.upcomimg-moive-header{
+    background-color: #ff9999;
+    padding: 8px;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.paper-div{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1px;
+    height: 15rem;
+    width: 10rem;
+    box-shadow: black;
+    background-color: aquamarine;
+}

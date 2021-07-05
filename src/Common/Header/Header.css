@@ -1,0 +1,36 @@
+.header {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 32px;
+    height: 36px;
+    background: #222;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.logo{
+    height: 35px;
+    background-color: #ff7f7f;
+    animation: rotate 8s infinite;
+}
+
+@keyframes rotate {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+  }
+
+.btn-class{
+    float: right;
+}
+
+.login-button{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 32px;
+}
+
+.bookShow-btn{
+    margin-right: 10px;
+}
